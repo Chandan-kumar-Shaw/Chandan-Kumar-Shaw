@@ -1,7 +1,14 @@
-##           Hi 👋 I'm Chandan Kumar Shaw
--------------------------------------------------------
-  Java Backend Developer in Progress
---------------------------------------------
+  <img width="1983" height="793" alt="Java Backend Banner" src="https://github.com/user-attachments/assets/77be110d-4526-4298-8a42-160a6cb99dcd" />
+  
+  
+## Hi 👋 I'm Chandan Kumar Shaw
+
+
+           Java Backend Developer in Progress.
+   
+Building strong foundation in Java, OOP, DSA and professional development practices.
+
+______________________________________________________________________________________
 
 <!--
 **Chandan-kumar-Shaw/Chandan-Kumar-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
